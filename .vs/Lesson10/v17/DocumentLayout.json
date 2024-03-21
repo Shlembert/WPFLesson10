@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\WPFLesson10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02236BA2-60E7-4B16-AD96-4AE8562CA3E7}|Lesson10.csproj|d:\\github\\wpflesson10\\clienviewpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02236BA2-60E7-4B16-AD96-4AE8562CA3E7}|Lesson10.csproj|solutionrelative:clienviewpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02236BA2-60E7-4B16-AD96-4AE8562CA3E7}|Lesson10.csproj|d:\\github\\wpflesson10\\clienviewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{02236BA2-60E7-4B16-AD96-4AE8562CA3E7}|Lesson10.csproj|solutionrelative:clienviewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02236BA2-60E7-4B16-AD96-4AE8562CA3E7}|Lesson10.csproj|d:\\github\\wpflesson10\\data\\clientmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02236BA2-60E7-4B16-AD96-4AE8562CA3E7}|Lesson10.csproj|solutionrelative:data\\clientmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02236BA2-60E7-4B16-AD96-4AE8562CA3E7}|Lesson10.csproj|d:\\github\\wpflesson10\\data\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02236BA2-60E7-4B16-AD96-4AE8562CA3E7}|Lesson10.csproj|solutionrelative:data\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02236BA2-60E7-4B16-AD96-4AE8562CA3E7}|Lesson10.csproj|d:\\github\\wpflesson10\\mainmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02236BA2-60E7-4B16-AD96-4AE8562CA3E7}|Lesson10.csproj|solutionrelative:mainmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02236BA2-60E7-4B16-AD96-4AE8562CA3E7}|Lesson10.csproj|d:\\github\\wpflesson10\\mainmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{02236BA2-60E7-4B16-AD96-4AE8562CA3E7}|Lesson10.csproj|solutionrelative:mainmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02236BA2-60E7-4B16-AD96-4AE8562CA3E7}|Lesson10.csproj|d:\\github\\wpflesson10\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02236BA2-60E7-4B16-AD96-4AE8562CA3E7}|Lesson10.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02236BA2-60E7-4B16-AD96-4AE8562CA3E7}|Lesson10.csproj|d:\\github\\wpflesson10\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{02236BA2-60E7-4B16-AD96-4AE8562CA3E7}|Lesson10.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientMaker.cs",
+              "DocumentMoniker": "D:\\GitHub\\WPFLesson10\\Data\\ClientMaker.cs",
+              "RelativeDocumentMoniker": "Data\\ClientMaker.cs",
+              "ToolTip": "D:\\GitHub\\WPFLesson10\\Data\\ClientMaker.cs",
+              "RelativeToolTip": "Data\\ClientMaker.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T05:12:37.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienViewPage.xaml",
+              "DocumentMoniker": "D:\\GitHub\\WPFLesson10\\ClienViewPage.xaml",
+              "RelativeDocumentMoniker": "ClienViewPage.xaml",
+              "ToolTip": "D:\\GitHub\\WPFLesson10\\ClienViewPage.xaml",
+              "RelativeToolTip": "ClienViewPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-20T05:12:37.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainMenu.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\WPFLesson10\\MainMenu.xaml.cs",
+              "RelativeDocumentMoniker": "MainMenu.xaml.cs",
+              "ToolTip": "D:\\GitHub\\WPFLesson10\\MainMenu.xaml.cs",
+              "RelativeToolTip": "MainMenu.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T05:12:37.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienViewPage.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\WPFLesson10\\ClienViewPage.xaml.cs",
+              "RelativeDocumentMoniker": "ClienViewPage.xaml.cs",
+              "ToolTip": "D:\\GitHub\\WPFLesson10\\ClienViewPage.xaml.cs*",
+              "RelativeToolTip": "ClienViewPage.xaml.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T05:12:38.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\WPFLesson10\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\GitHub\\WPFLesson10\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T05:12:38.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainMenu.xaml",
+              "DocumentMoniker": "D:\\GitHub\\WPFLesson10\\MainMenu.xaml",
+              "RelativeDocumentMoniker": "MainMenu.xaml",
+              "ToolTip": "D:\\GitHub\\WPFLesson10\\MainMenu.xaml",
+              "RelativeToolTip": "MainMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-20T05:12:37.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\GitHub\\WPFLesson10\\Data\\Client.cs",
+              "RelativeDocumentMoniker": "Data\\Client.cs",
+              "ToolTip": "D:\\GitHub\\WPFLesson10\\Data\\Client.cs",
+              "RelativeToolTip": "Data\\Client.cs",
+              "ViewState": "AQIAABkAAAAANDMzMzMLwBUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T05:12:37.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\GitHub\\WPFLesson10\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\GitHub\\WPFLesson10\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-20T05:12:38.007Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

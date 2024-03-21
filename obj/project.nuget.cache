@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "rXxNLydngcnsDuEszkKgDJoDU4WkPTgFYeLK3iOqIQWr94Ydk5Mz0j+T7o72vYl0mUqK5j4FTvUZ8wrpB3aaUA==",
+  "dgSpecHash": "RLzDjZeT7iIzd6p2iZ/fbrJ7n06bnc+oXIMyWBrJvKB2KFTz+EzODnPhqvg23v5SQNvy8NL1Ho3RRQRcHpKQ7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Martin\\source\\repos\\Lesson10\\Lesson10.csproj",
+  "projectFilePath": "D:\\GitHub\\WPFLesson10\\Lesson10.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Martin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\Martin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Martin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Martin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Martin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Martin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
   ],
   "logs": []
 }
